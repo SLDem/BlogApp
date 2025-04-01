@@ -1,4 +1,3 @@
-"""
 FastAPI MVC Web Application with MySQL & SQLAlchemy
 
 ## Setup Instructions
